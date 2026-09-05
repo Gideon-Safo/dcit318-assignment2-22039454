@@ -1,0 +1,15 @@
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/ShapeDemo/bin/Debug/net10.0/ShapeDemo
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/ShapeDemo/bin/Debug/net10.0/ShapeDemo.deps.json
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/ShapeDemo/bin/Debug/net10.0/ShapeDemo.runtimeconfig.json
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/ShapeDemo/bin/Debug/net10.0/ShapeDemo.dll
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/ShapeDemo/bin/Debug/net10.0/ShapeDemo.pdb
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/ShapeDemo/obj/Debug/net10.0/ShapeDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/ShapeDemo/obj/Debug/net10.0/ShapeDemo.AssemblyInfoInputs.cache
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/ShapeDemo/obj/Debug/net10.0/ShapeDemo.AssemblyInfo.cs
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/ShapeDemo/obj/Debug/net10.0/ShapeDemo.csproj.CoreCompileInputs.cache
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/ShapeDemo/obj/Debug/net10.0/ShapeDemo.sourcelink.json
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/ShapeDemo/obj/Debug/net10.0/ShapeDemo.dll
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/ShapeDemo/obj/Debug/net10.0/refint/ShapeDemo.dll
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/ShapeDemo/obj/Debug/net10.0/ShapeDemo.pdb
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/ShapeDemo/obj/Debug/net10.0/ShapeDemo.genruntimeconfig.cache
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/ShapeDemo/obj/Debug/net10.0/ref/ShapeDemo.dll
