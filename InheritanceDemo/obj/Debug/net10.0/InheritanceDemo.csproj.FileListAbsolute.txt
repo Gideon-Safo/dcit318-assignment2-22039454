@@ -1,0 +1,14 @@
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/InheritanceDemo/bin/Debug/net10.0/InheritanceDemo
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/InheritanceDemo/bin/Debug/net10.0/InheritanceDemo.deps.json
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/InheritanceDemo/bin/Debug/net10.0/InheritanceDemo.runtimeconfig.json
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/InheritanceDemo/bin/Debug/net10.0/InheritanceDemo.dll
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/InheritanceDemo/bin/Debug/net10.0/InheritanceDemo.pdb
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/InheritanceDemo/obj/Debug/net10.0/InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/InheritanceDemo/obj/Debug/net10.0/InheritanceDemo.AssemblyInfoInputs.cache
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/InheritanceDemo/obj/Debug/net10.0/InheritanceDemo.AssemblyInfo.cs
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/InheritanceDemo/obj/Debug/net10.0/InheritanceDemo.csproj.CoreCompileInputs.cache
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/InheritanceDemo/obj/Debug/net10.0/InheritanceDemo.dll
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/InheritanceDemo/obj/Debug/net10.0/refint/InheritanceDemo.dll
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/InheritanceDemo/obj/Debug/net10.0/InheritanceDemo.pdb
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/InheritanceDemo/obj/Debug/net10.0/InheritanceDemo.genruntimeconfig.cache
+/Users/gideonJNR/Desktop/C#/dcit318-assignment2-22039454/InheritanceDemo/obj/Debug/net10.0/ref/InheritanceDemo.dll
